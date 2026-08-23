@@ -42,7 +42,8 @@ I'm still learning, so this profile will grow and change with me. 🌱
 🧠 **Deep Learning (DL)**  
 🔐 **Cybersecurity**  
 🌐 **Computer Networks**
-
+🎥**Medical imaging**
+📉**Biomedical signals**
 ---
 
 ## 🧪 Experiments & Projects
