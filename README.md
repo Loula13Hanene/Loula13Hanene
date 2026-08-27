@@ -2,7 +2,7 @@
 
 # 🌸 Hello, I'm Loula Hanene
 
-### ⚙️ Biomedical Engineering Student 🇩🇿
+### ⚙️ Biomedical Engineering Student _Tlemcen _🇩🇿_
 
 *Learning, experimenting, and documenting my journey — one project at a time.*
 
